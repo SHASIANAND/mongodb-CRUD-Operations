@@ -30,7 +30,7 @@ npm start
 
 Ensure the server starts without any errors.
 
-6. Access the application in your web browser by navigating to the appropriate URL (e.g., `http://localhost:3000`).
+6. Access the application in your web browser by navigating to the appropriate URL (e.g., `http://localhost:8000`).
 
 ## Explanation
 
